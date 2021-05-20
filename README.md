@@ -28,4 +28,4 @@
 
 
   
-![footer](https://capsule-render.vercel.app/api?type=waving&section=footer&color=random&reversal=true&color=random&height=50)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=random&section=footer&reversal=true&color=random&height=50)
