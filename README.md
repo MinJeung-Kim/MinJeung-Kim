@@ -1,4 +1,9 @@
-  
+
+
+![header](https://capsule-render.vercel.app/api?type=waving&section=header&color=random&text=Roxi%20Dev&fontSize=50&fontColor=ffff&height=200&animation=twinkling)
+
+
+
 <h2 align="center"> 
 🛠 Tool Stack 🛠 
   <p>  Techs that I've used at least once </p>
@@ -20,3 +25,7 @@
 <img src="https://img.shields.io/Adobe Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white"/>
 <img src="https://img.shields.io/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/> -->
 </h3>
+
+
+  
+![footer](https://capsule-render.vercel.app/api?type=waving&section=footer&color=random&reversal=true&color=random&height=50)
