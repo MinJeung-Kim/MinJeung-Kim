@@ -1,6 +1,6 @@
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&section=header&color=random&text=Roxi%20Dev&fontSize=50&fontColor=ffff&height=200&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&section=header&color=random&text=Roxie%20Dev&fontSize=50&fontColor=ffff&height=200&animation=twinkling)
 
 
 
